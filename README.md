@@ -1,6 +1,6 @@
 # Node Express Mongo Example
 
-This is a sample application demonstrating how to build an Node.js express RESTful application that integrates with MongoDB. You can see the [tutorial here](https://codetree.dev/node-rest-api-tutorial/)
+This is a sample application demonstrating how to build an Node.js express RESTful application that integrates with MongoDB.
 
 ## Running the application
 
